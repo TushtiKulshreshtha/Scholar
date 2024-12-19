@@ -63,8 +63,5 @@ Scholar Sync is a cloud-based educational platform developed using the MERN stac
 ## Contributing
 We welcome contributions! Please fork the repository and create a pull request with your feature or improvement.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 **Developed by**: Tushti Kulshreshtha
